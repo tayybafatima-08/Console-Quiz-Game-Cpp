@@ -1,0 +1,14 @@
+abc | 26 | Science | 2025-12-07 21:25:30
+abc | 25 | Computer | 2025-12-07 21:27:40
+asd | 26 | Science | Mon Dec  8 12:00:24 2025
+af | 165 | Computer | Mon Dec  8 12:33:00 2025
+as | 137 | Computer | Mon Dec  8 12:38:01 2025
+as | 14 | Science | Mon Dec  8 12:38:30 2025
+abc | -6 | Science | Tue Dec  9 15:50:23 2025
+abc | -3 | Science | Tue Dec  9 15:52:37 2025
+abc | -4 | Science | Tue Dec  9 16:50:55 2025
+adf | 12 | Science | Tue Dec  9 17:18:03 2025
+asd | -8 | Science | Tue Dec  9 18:56:38 2025
+SS | 4 | Science | Tue Dec  9 18:58:18 2025
+aads | 4 | Science | Tue Dec  9 18:59:02 2025
+Alex | 54 | Science | Tue Dec  9 19:43:02 2025

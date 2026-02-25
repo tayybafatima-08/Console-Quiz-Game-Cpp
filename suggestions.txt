@@ -1,0 +1,33 @@
+Category: 
+Difficulty: 1
+Question: FEGG
+A: QQ
+B: WQW
+C: QWWE
+D: QW
+Answer: A
+Suggested by: tag
+Date: 2025-12-07 20:55:39
+---
+Category: Computer
+Difficulty: 2
+Question: arr[2][3]={1,2,3,4,5,6} Here, arr[0][3]=?
+A: 2
+B: 0
+C: undefined
+D: 5
+Answer: C
+Suggested by: abc
+Date: Tue Dec  9 16:53:57 2025
+---
+Category: Computer
+Difficulty: 2
+Question: If arr[2][3]={1,2,3,4,5,6}, then arr[0][2]=? 
+A: 2
+B: 3
+C: 4
+D: 0
+Answer: B
+Suggested by: Alex
+Date: Tue Dec  9 19:46:31 2025
+---

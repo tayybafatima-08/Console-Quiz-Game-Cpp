@@ -1,0 +1,130 @@
+=== QUIZ SESSION ===
+Player: tag
+Date: 2025-12-07 20:54:37
+Category: Science
+Score: -2
+Questions: 5
+Wrong: 4
+-------------------
+=== QUIZ SESSION ===
+Player: tag
+Date: 2025-12-07 20:57:43
+Category: Computer
+Score: 59
+Questions: 10
+Wrong: 3
+-------------------
+=== QUIZ SESSION ===
+Player: abc
+Date: 2025-12-07 21:25:30
+Category: Science
+Score: 26
+Questions: 5
+Wrong: 2
+-------------------
+=== QUIZ SESSION ===
+Player: abc
+Date: 2025-12-07 21:27:40
+Category: Computer
+Score: 25
+Questions: 10
+Wrong: 5
+-------------------
+=== QUIZ SESSION ===
+Player: asd
+Date: Mon Dec  8 12:00:24 2025
+Category: Science
+Score: 26
+Questions: 5
+Wrong: 2
+-------------------
+=== QUIZ SESSION ===
+Player: af
+Date: Mon Dec  8 12:33:00 2025
+Category: Computer
+Score: 165
+Questions: 10
+Wrong: 1
+-------------------
+=== QUIZ SESSION ===
+Player: as
+Date: Mon Dec  8 12:38:01 2025
+Category: Computer
+Score: 137
+Questions: 10
+Wrong: 1
+-------------------
+=== QUIZ SESSION ===
+Player: as
+Date: Mon Dec  8 12:38:30 2025
+Category: Science
+Score: 14
+Questions: 5
+Wrong: 3
+-------------------
+=== QUIZ SESSION ===
+Player: abc
+Date: Tue Dec  9 15:50:23 2025
+Category: Science
+Score: -6
+Questions: 5
+Wrong: 3
+-------------------
+=== QUIZ SESSION ===
+Player: abc
+Date: Tue Dec  9 15:52:37 2025
+Category: Science
+Score: -3
+Questions: 5
+Wrong: 1
+-------------------
+=== QUIZ SESSION ===
+Player: abc
+Date: Tue Dec  9 16:50:55 2025
+Category: Science
+Score: -4
+Questions: 10
+Wrong: 8
+-------------------
+??????????????????????????????????????????
+QUIZ SESSION
+Player:     adf
+Date:       Tue Dec  9 17:18:03 2025
+Category:   Science
+Score:      12
+Questions:  10
+Wrong:      6
+??????????????????????????????????????????
+
+=== QUIZ SESSION ===
+Player: asd
+Date: Tue Dec  9 18:56:38 2025
+Category: Science
+Score: -8
+Questions: 10
+Wrong: 9
+-------------------
+=== QUIZ SESSION ===
+Player: SS
+Date: Tue Dec  9 18:58:18 2025
+Category: Science
+Score: 4
+Questions: 10
+Wrong: 8
+-------------------
+=== QUIZ SESSION ===
+Player: aads
+Date: Tue Dec  9 18:59:02 2025
+Category: Science
+Score: 4
+Questions: 10
+Wrong: 8
+-------------------
+=== QUIZ SESSION ===
+Player: Alex
+Date: Tue Dec  9 19:43:02 2025
+Category: Science
+Score: 54
+Questions: 10
+Wrong: 3
+-------------------

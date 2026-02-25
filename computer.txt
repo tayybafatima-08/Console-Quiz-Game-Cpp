@@ -1,0 +1,282 @@
+﻿Which language is known as the backbone of web pages?
+Python
+Java
+HTML
+C++
+C
+What is the brain of a computer called?
+Monitor
+CPU
+RAM
+Hard Drive
+B
+Which of these is not a programming language?
+Photoshop
+Python
+Java
+C++
+A
+What does RAM stand for?
+Random Access Memory
+Read Access Memory
+Random Active Memory
+Read Active Memory
+A
+Which device is used to display output?
+Keyboard
+Mouse
+Monitor
+Scanner
+C
+Which unit stores data permanently?
+RAM
+ROM
+Hard Drive
+Cache
+C
+What does GUI stand for?
+Graphical User Interface
+General User Input
+Graphical Unified Internet
+Global Unit Interface
+A
+Which part of the computer stores the BIOS?
+RAM
+ROM
+CPU
+Monitor
+B
+Which port is used for pen drives?
+HDMI
+USB
+VGA
+LAN
+B
+Which device is used for typing?
+Mouse
+Keyboard
+Monitor
+Speaker
+B
+What does HDD stand for?
+High Data Device
+Hard Disk Drive
+Heavy Disk Data
+Hard Drive Device
+B
+Which memory is volatile?
+ROM
+Hard Disk
+RAM
+DVD
+C
+What does WWW stand for?
+World Web Wide
+Wide World Web
+World Wide Web
+Web World Wide
+C
+Who is known as the father of computers?
+Newton
+Charles Babbage
+Einstein
+Tesla
+B
+Which one is an input device?
+Printer
+Monitor
+Scanner
+Speaker
+C
+Which one is an output device?
+Mouse
+Keyboard
+Printer
+Scanner
+C
+What does IP address identify?
+A computer on a network
+A printer
+A keyboard
+A program
+A
+Which file extension is for an image?
+.mp3
+.jpg
+.txt
+.exe
+B
+Which of these is an operating system?
+Chrome
+Windows
+Google
+Intel
+B
+What does ALU stand for?
+Automatic Logic Unit
+Arithmetic and Logic Unit
+Advanced Logical Utility
+Automated Logic Utility
+B
+Which memory stores currently running programs?
+RAM
+ROM
+SSD
+CD
+A
+What is the full form of USB?
+Universal System Bus
+Universal Serial Bus
+United Standard Bus
+Unique Serial Bus
+B
+Which device connects a computer to the internet?
+Router
+Scanner
+Joystick
+Printer
+A
+What does MS in MS Word stand for?
+Micro System
+Main Software
+Microsoft
+Mega Storage
+C
+Which of these is NOT an output device?
+Printer
+Speaker
+Projector
+Mouse
+D
+What is the main page of a website called?
+Home Page
+End Page
+First Page
+Index Page
+A
+Which browser is made by Google?
+Firefox
+Chrome
+Safari
+Edge
+B
+Which one is a storage device?
+Keyboard
+Mouse
+Pendrive
+Monitor
+C
+What does PPT stand for?
+PowerPoint
+PicturePoint
+PrintPoint
+PagePoint
+A
+Which of these is a search engine?
+Facebook
+Google
+WhatsApp
+Instagram
+B
+What type of device is a microphone?
+Input
+Output
+Storage
+Processing
+A
+Which shortcut copies selected text?
+Ctrl + P
+Ctrl + C
+Ctrl + V
+Ctrl + X
+B
+Which shortcut pastes copied text?
+Ctrl + C
+Ctrl + V
+Ctrl + X
+Ctrl + A
+B
+Which key deletes text on the left side?
+Delete
+Backspace
+Shift
+Tab
+B
+Which key refreshes a webpage?
+F1
+F3
+F5
+F9
+C
+Which company created the iPhone?
+Samsung
+Nokia
+Apple
+Google
+C
+Which device shows visual output?
+Keyboard
+Monitor
+Mouse
+Joystick
+B
+Which type of software is MS Excel?
+System Software
+Application Software
+Programming Software
+Malware
+B
+Which one is NOT hardware?
+CPU
+Mouse
+Windows
+Keyboard
+C
+What is used to store large data?
+SSD
+RAM
+Cache
+Register
+A
+Which button closes a window?
+_
+▢
+X
+O
+C
+Which of these is a programming language?
+HTML
+CSS
+Java
+Photoshop
+C
+What does PDF stand for?
+Portable Document Format
+Printed Document File
+Personal Data File
+Public Display Format
+A
+Which is the fastest memory?
+Hard Disk
+RAM
+Cache
+ROM
+C
+Which company created Windows OS?
+Apple
+Microsoft
+Google
+IBM
+B
+Which device controls cursor movement?
+Monitor
+Mouse
+Printer
+Speaker
+B
+Which storage is optical?
+CD
+SSD
+USB
+RAM
+A

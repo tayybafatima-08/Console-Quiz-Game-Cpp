@@ -1,0 +1,283 @@
+How many players are in a soccer team?
+9
+10
+11
+12
+C
+Which country won the 2018 FIFA World Cup?
+Brazil
+Germany
+France
+Argentina
+C
+In which sport would you perform a slam dunk?
+Tennis
+Basketball
+Soccer
+Cricket
+B
+How many periods are in an ice hockey game?
+2
+3
+4
+5
+B
+What is the distance of a marathon?
+26.2 miles
+13.1 miles
+50 miles
+100 miles
+A
+Which sport is known as the “king of sports”?
+Basketball
+Cricket
+Football
+Tennis
+C
+How many players are on a basketball court per team?
+3
+4
+5
+6
+C
+Where is Wimbledon played?
+USA
+France
+England
+Spain
+C
+Which sport uses a shuttlecock?
+Tennis
+Squash
+Badminton
+Table Tennis
+C
+How many rings are on the Olympic flag?
+3
+4
+5
+6
+C
+Which country invented cricket?
+Australia
+England
+India
+South Africa
+B
+In football, what card results in a player being sent off?
+Green
+Yellow
+Red
+Blue
+C
+In tennis, what score means zero?
+Low
+Zero
+Love
+Nil
+C
+How many outs per inning in baseball (one team)?
+1
+2
+3
+4
+C
+Which sport uses the term “birdie”?
+Cricket
+Golf
+Tennis
+Hockey
+B
+Which country hosted the 2016 Olympics?
+China
+Brazil
+Japan
+UK
+B
+How long is an NBA game (in minutes)?
+40
+48
+60
+50
+B
+Which sport uses the term “hat-trick”?
+Tennis
+Cricket
+Swimming
+Boxing
+B
+How many players in a cricket team?
+9
+10
+11
+12
+C
+Where were the 2022 FIFA World Cup matches held?
+Brazil
+Qatar
+Russia
+Japan
+B
+What ball is used in baseball?
+Hardball
+Softball
+Leather ball
+Tennis ball
+A
+Which sport uses the term “checkmate”?
+Chess
+Tennis
+Cricket
+Football
+A
+
+How many holes are in a standard golf course?
+9
+12
+15
+18
+D
+Which country is famous for sumo wrestling?
+China
+Japan
+Korea
+Thailand
+B
+What is the main object hit in table tennis?
+Football
+Shuttle
+Puck
+Ping-pong ball
+D
+How many sets must a player win in men’s Grand Slam tennis?
+1
+2
+3
+4
+C
+Which sport uses a puck?
+Baseball
+Cricket
+Ice Hockey
+Tennis
+C
+Where did the Olympics originate?
+USA
+France
+Greece
+Italy
+C
+What is the length of a standard football match?
+60 mins
+70 mins
+80 mins
+90 mins
+D
+Which sport has positions like pitcher and catcher?
+Football
+Basketball
+Baseball
+Tennis
+C
+Which country hosts the Tour de France?
+Spain
+Italy
+France
+Germany
+C
+What color is the jersey of the Tour de France leader?
+Green
+Yellow
+Blue
+Red
+B
+Where is the FIFA headquarters located?
+London
+Zurich
+Paris
+Berlin
+B
+How many games must be won to win a tennis set?
+4
+5
+6
+7
+C
+In cricket, how many stumps are there?
+1
+2
+3
+4
+C
+Which sport includes pommel horse?
+Athletics
+Gymnastics
+Swimming
+Wrestling
+B
+Which sport uses gloves and a ring?
+Wrestling
+Karate
+Boxing
+Judo
+C
+What is the shape of a basketball court?
+Square
+Rectangle
+Circle
+Oval
+B
+Which sport uses the DRS system?
+Football
+Cricket
+Hockey
+Rugby
+B
+Which sport awards the Stanley Cup?
+Basketball
+Ice Hockey
+Baseball
+Tennis
+B
+Which country hosted the 2014 FIFA World Cup?
+Brazil
+Russia
+Germany
+Spain
+A
+What sport is Michael Phelps famous for?
+Running
+Cycling
+Swimming
+Boxing
+C
+How many players are in a volleyball team on court?
+4
+5
+6
+7
+C
+Which sport is known as “the gentleman’s game”?
+Tennis
+Cricket
+Golf
+Football
+B
+Which sport uses the term “ace”?
+Baseball
+Hockey
+Tennis
+Cricket
+C
+How many points is a touchdown worth in American football?
+3
+6
+7
+10
+B
+Which country is famous for the Haka dance before matches?
+India
+New Zealand
+Australia
+South Africa
+B
