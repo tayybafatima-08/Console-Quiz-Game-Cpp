@@ -20,8 +20,8 @@ The application allows users to attempt multiple choice questions, validates inp
 - File handling
 
 ## Developed By
-Tayyba Fatima  
-Mahida Nayyar
+Tayyba Fatima 
 Sawera Khalid
+Mahida Nayyar
 
 Programming Fundamentals – FAST NUCES
