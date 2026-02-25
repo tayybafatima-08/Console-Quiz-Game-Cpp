@@ -22,7 +22,6 @@ The application allows users to attempt multiple choice questions, validates inp
 ## Developed By
 Tayyba Fatima  
 Mahida Nayyar
-
 Sawera Khalid
 
 Programming Fundamentals – FAST NUCES
